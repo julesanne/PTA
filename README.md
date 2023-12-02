@@ -1,2 +1,2 @@
-# PTA
-Pete Thinkful Artist webpage
+# PeteThinkful2
+Pete
